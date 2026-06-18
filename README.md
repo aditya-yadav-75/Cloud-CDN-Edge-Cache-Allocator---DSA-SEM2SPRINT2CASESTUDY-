@@ -204,23 +204,61 @@ Mumbai -> Pune -> Bangalore
 
 # Screenshots
 
-Include screenshots of the following while demonstrating the project:
+## Main Menu
 
-1. Main Menu
-2. Add URL
-3. Search URL
-4. Display URL Database
-5. Session History
-6. Undo Action
-7. Download Queue
-8. Server Directory
-9. File Popularity (Merge Sort)
-10. Cache Manager
-11. Network Graph
-12. BFS Traversal
-13. DFS Traversal
-14. Dijkstra's Shortest Path
+![Main Menu](screenshots/01-main-menu.png)
 
+## Add URL
+
+![Add URL](screenshots/02-add-url.png)
+
+## Search URL
+
+![Search URL](screenshots/03-search-url.png)
+
+## Display URLs
+
+![Display URLs](screenshots/04-display-urls.png)
+
+## Session History
+
+![Session History](screenshots/05-session-history.png)
+
+## Undo Action
+
+![Undo Action](screenshots/06-undo-action.png)
+
+## Download Queue
+
+![Download Queue](screenshots/07-download-queue.png)
+
+## Server Directory
+
+![Server Directory](screenshots/08-server-directory.png)
+
+## File Popularity
+
+![File Popularity](screenshots/09-file-popularity.png)
+
+## Cache Manager
+
+![Cache Manager](screenshots/10-cache-manager.png)
+
+## Network Graph
+
+![Network Graph](screenshots/11-network-graph.png)
+
+## BFS Traversal
+
+![BFS](screenshots/12-bfs.png)
+
+## DFS Traversal
+
+![DFS](screenshots/13-dfs.png)
+
+## Dijkstra's Algorithm
+
+![Dijkstra](screenshots/14-dijkstra.png)
 ---
 
 # Results and Observations
