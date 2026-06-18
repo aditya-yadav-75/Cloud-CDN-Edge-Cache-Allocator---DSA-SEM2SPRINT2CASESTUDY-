@@ -205,61 +205,46 @@ Mumbai -> Pune -> Bangalore
 # Screenshots
 
 ## Main Menu
-
-![Main Menu](screenshots/01-main-menu.png)
+![Main Menu](sprint2casestudydsa/screenshots/01-main-menu.png)
 
 ## Add URL
-
-![Add URL](screenshots/02-add-url.png)
+![Add URL](sprint2casestudydsa/screenshots/02-add-url.png)
 
 ## Search URL
-
-![Search URL](screenshots/03-search-url.png)
+![Search URL](sprint2casestudydsa/screenshots/03-search-url.png)
 
 ## Display URLs
+![Display URLs](sprint2casestudydsa/screenshots/04-display-urls.png)
 
-![Display URLs](screenshots/04-display-urls.png)
+## Add Action
+![Add Action](sprint2casestudydsa/screenshots/05-add-action.png)
 
 ## Session History
-
-![Session History](screenshots/05-session-history.png)
-
-## Undo Action
-
-![Undo Action](screenshots/06-undo-action.png)
+![Session History](sprint2casestudydsa/screenshots/06-session-history.png)
 
 ## Download Queue
-
-![Download Queue](screenshots/07-download-queue.png)
+![Download Queue](sprint2casestudydsa/screenshots/07-download-queue.png)
 
 ## Server Directory
-
-![Server Directory](screenshots/08-server-directory.png)
+![Server Directory](sprint2casestudydsa/screenshots/08-server-directory.png)
 
 ## File Popularity
-
-![File Popularity](screenshots/09-file-popularity.png)
+![File Popularity](sprint2casestudydsa/screenshots/09-file-popularity.png)
 
 ## Cache Manager
-
-![Cache Manager](screenshots/10-cache-manager.png)
+![Cache Manager](sprint2casestudydsa/screenshots/10-cache-manager.png)
 
 ## Network Graph
-
-![Network Graph](screenshots/11-network-graph.png)
+![Network Graph](sprint2casestudydsa/screenshots/11-network-graph.png)
 
 ## BFS Traversal
-
-![BFS](screenshots/12-bfs.png)
+![BFS](sprint2casestudydsa/screenshots/12-bfs.png)
 
 ## DFS Traversal
-
-![DFS](screenshots/13-dfs.png)
+![DFS](sprint2casestudydsa/screenshots/13-dfs.png)
 
 ## Dijkstra's Algorithm
-
-![Dijkstra](screenshots/14-dijkstra.png)
----
+![Dijkstra](sprint2casestudydsa/screenshots/14-dijkstra.png)
 
 # Results and Observations
 
